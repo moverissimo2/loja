@@ -3,9 +3,9 @@
 //ini_set("display_errors", 0 );
 
 $servidor = 'localhost';
-$banco = 'religiosos_loja';
-$usuario = 'religiosos_loja';
-$senha = 'Mov48130@';
+$banco = 'xxx';
+$usuario = 'xxxx';
+$senha = 'xxx';
 
 /*
 $servidor = 'localhost';
